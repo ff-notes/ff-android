@@ -1,8 +1,10 @@
-# ff
+# 𝑓𝑓
 
-ff -- a task tracker and note taker
+A distributed note taker and task manager.
 
-## Getting Started
+This repository contains Android client.
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+## Development
+
+    $ cd ff
+    $ flutter test
